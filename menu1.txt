@@ -1,10 +1,10 @@
 hello i m writing the menu
 
-chicken
-egg
+1) chicken
+2) egg
 
 adding sea food
-fish
-shrimp
+3)fish
+4)shrimp
 
 thank you
